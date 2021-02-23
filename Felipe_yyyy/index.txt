@@ -1,0 +1,10 @@
+
+Hola como estan?
+
+Prueba con crear:
+
+Archivos, carpetas, agrupar,
+Buscar carpetas o palabras claves en lineas de codigo, 
+Primeros pasos para el manejo del editor VSC.
+
+Gracias
